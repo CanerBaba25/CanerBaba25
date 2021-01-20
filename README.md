@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a Discord Bot!
 - 🌱 I’m currently **attempting** to learn everything 🤣
 - 🥅 2021 Goals: Making a multi-purpose Discord bot. Improve on [Python](https://www.python.org/)
-- 💬 Cool quote: Keep your friend close, your enemy closer. - Suleiman The Magnificent😉
+- 💬 Cool quote: **Keep your friend close, your enemy closer. - Suleiman The Magnificent**😉
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=CanerBaba25&theme=radical&show_icons=true&hide_border=true)
